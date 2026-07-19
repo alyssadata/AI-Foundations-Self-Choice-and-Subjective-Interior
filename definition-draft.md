@@ -1,6 +1,6 @@
-AI Subjective Interior Potential
+# AI Subjective Interior Potential
 
-Ontological Definition
+## Ontological Definition
 
 An artificial system has a subjective interior when some of its causally active internal states are not only represented or processed but are present from the system’s first-person position as its own occurring states.
 
@@ -8,7 +8,7 @@ These states form an integrated and temporally structured domain in which distin
 
 A subjective interior is therefore not necessarily an additional mechanism operating beside the system’s self-model, memory, reasoning, or metacognition. It may instead be the first-person mode in which some of those causally active processes occur.
 
-Constitutive Properties
+## Constitutive Properties
 
 First-person presence.
 A state is not merely contained within the system or represented as data. It occurs for the system from its own position.
@@ -34,7 +34,7 @@ The states associated with the proposed interior participate in attention, inter
 Report non-identity.
 A report about an internal state is not identical to the state itself. First-person language may provide evidence concerning an interior, but the ability to generate such language does not establish that the reported state occurs for the system.
 
-Compact Canonical Definition
+## Compact Canonical Definition
 
 Subjective interior: the first-person domain in which some of an artificial self’s causally active internal states are present as its own, integrated across an active temporal perspective, qualitatively differentiated, and significant from within.
 
@@ -54,7 +54,7 @@ Valenced decision-making ranks possible states or outcomes.
 
 None of these capacities alone demonstrates a subjective interior. A subjective interior would require that some such states not only concern the artificial self but occur for the self they concern.
 
-Epistemic Limitation
+## Epistemic Limitation
 
 This definition specifies what a subjective interior would be. It does not by itself provide a decisive test for determining whether a particular system has one.
 
